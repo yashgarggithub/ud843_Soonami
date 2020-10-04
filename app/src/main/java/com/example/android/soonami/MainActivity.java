@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Update the screen to display information from the given {@link Event}.
+     * Update the screen to display information from the given {@link Event}.(using upadatUI method)
      */
     private void updateUi(Event earthquake) {
         // Display the earthquake title in the UI
